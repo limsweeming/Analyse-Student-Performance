@@ -1,4 +1,4 @@
-#### Project Brief and Problem Statement
+#### Background
 
 At the core of understanding student academic achievements in revealing specific inequalities of the student’s family background. The presence of family background and the student social life can be valuable predictors in how well the student perform in school. In early assumption, the researcher or anyone would assume that parents with higher education and better career could lead their child to stronger academic achievements. This may or may not be the truth and this analysis is to back up the claims or rather find the evidence. 
 The researcher aims to determine if there is any significance different between student’s grade and the correlation to the family background and social life. The angle is that student bring their family experiences with them to school, so teachers need to have a better understanding of their student’s background and how they function. The more effort in understanding student’s problem may lead to better academic achievement of students. Teachers could benefit from this analysis, make better decisions in managing student, and help student achieve greater. 
@@ -11,3 +11,7 @@ There are a total of 31 columns. The dataset comes with student’s parent jobs,
 #### Getting Insights from Data 
 The overarching question motivating this research: Do students performed better in academics if their family background has a higher education level and career roles. Not limited to that, the study of this dataset can focus on whether staying together with family or apart influence student’s grade. It is also possible to look into student’s social life outside of school in terms of romantic relationship, going out often, which may potentially affect the grades. 
 
+#### Workflow
+* Data cleaning and transformation
+* EDA with visualizations
+* Conclusion and recommendations
